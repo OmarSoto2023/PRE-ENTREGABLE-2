@@ -1,0 +1,21 @@
+.my-card {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .btn-primary {
+    margin-top: 10px;
+  }
+  
